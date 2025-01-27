@@ -103,5 +103,5 @@ After login, you will get a message like
 ![image](https://github.com/sagynangare/Todo-List-with-Django-and-Rest/assets/22528841/90009bee-5b64-45e7-ac0c-6bc0b06357f6)
 
 #### If you have any questions or queries please reach out to me
-***email id:*** sagy9975340919@gmail.com
-***LinkedIn:*** https://www.linkedin.com/in/sagar-nangare-0629a09a/
+***email id:*** mofakkhrulislam307@gmail.com
+***LinkedIn:*** https://www.linkedin.com/in/md-mofakkhrul-islam-mahin-288548307/
